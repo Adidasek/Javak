@@ -1,20 +1,36 @@
 package CW3;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
 public class Javax {
 
    
 
-     static void mine(int[] n)
+     static void mine(ArrayList<Integer> n)
     {
-        System.out.println("Siema");
-
+        System.out.println("Sieaaama");
+        
     }
+
+    
 
      public static void main(String[] args)
-    {
-        int[] liczby={1,2,3};
-        mine(liczby);
+    {   ArrayList <Integer> liczby = new ArrayList<>();
+         
+            liczby.add(1);
+            liczby.add(5);
+            liczby.add(3);
+            
+            mine(liczby);
+            pentla(liczby);
+        
     }
-    
+    static void pentla(ArrayList<Integer> b)
+    {
+        for (int liczby : b) {
+            System.out.println(liczby);
+        }
+    }
     
 }

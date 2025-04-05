@@ -8,7 +8,7 @@ public class Main {
         add(test);
         System.out.println("Number2: "+ test.number);
         //number 100
-        zero.say ("Ja","kocham","programowac","w","Javie");
+        zero.say ("Ja","kocham","programowac","w","Javie","xDDDD");
        
 
     }

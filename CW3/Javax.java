@@ -4,7 +4,7 @@ public class Javax {
 
    
 
-     static void mine(int[]n)
+     static void mine(int[] n)
     {
         System.out.println("Siema");
 

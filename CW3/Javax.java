@@ -10,7 +10,7 @@ public class Javax {
 
     }
 
-    static void aaa(String[] args)
+     public static void main(String[] args)
     {
         int[] liczby={1,2,3};
         mine(liczby);

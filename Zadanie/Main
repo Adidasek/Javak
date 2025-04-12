@@ -1,7 +1,0 @@
-public classic Main{
-
-    public static void main(String[] args){
-        //Lista oiektów vechicle klassa abstrakcyjna 
-
-    }
-}

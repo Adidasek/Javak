@@ -11,6 +11,7 @@ public class Zadanie1 {
      }
     public static void main(String[] args){
         int a,x,b;
+        
         //podaj liczbe a
         String liczba_a = JOptionPane.showInputDialog("Podaj a = ");
         a = Integer.parseInt(liczba_a);

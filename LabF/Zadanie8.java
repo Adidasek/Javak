@@ -1,7 +1,5 @@
 package LabF;
-
-
-    import java.util.*;
+import java.util.*;
 
 
 class Uczestnik implements Comparable<Uczestnik> {
